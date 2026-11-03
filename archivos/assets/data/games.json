@@ -1,0 +1,336 @@
+[
+  {
+    "id": "catan",
+    "name": "Catan",
+    "shortDescription": "Coloniza una isla, comercia recursos y construye caminos.",
+    "description": "Los jugadores son colonos que llegan a la isla de Catan. En cada turno se tiran los dados para producir recursos (madera, ladrillo, lana, trigo y mineral) que sirven para construir caminos, poblados y ciudades. La negociación entre jugadores es clave: casi nunca tendrás todo lo que necesitas.",
+    "category": "Estrategia",
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "durationMinutes": 75,
+    "difficulty": "media",
+    "minAge": 10,
+    "imgPath": "assets/images/games/catan.png",
+    "rules": [
+      "Arma el tablero con las losetas hexagonales y coloca los números encima.",
+      "Cada jugador coloca dos poblados y dos caminos al inicio.",
+      "En tu turno tira dos dados: los hexágonos con ese número producen recursos.",
+      "Comercia con otros jugadores o con el banco (4 a 1).",
+      "Construye caminos, poblados, ciudades o compra cartas de desarrollo.",
+      "Si sale un 7 se mueve el ladrón y quien tenga más de 7 cartas descarta la mitad.",
+      "Gana el primero en llegar a 10 puntos de victoria."
+    ]
+  },
+  {
+    "id": "carcassonne",
+    "name": "Carcassonne",
+    "shortDescription": "Coloca losetas para formar ciudades, caminos y monasterios.",
+    "description": "Un juego de colocación de losetas donde el paisaje medieval se construye entre todos. Cada turno robas una loseta, la conectas con las que ya están en la mesa y decides si colocas uno de tus seguidores para reclamar esa ciudad, camino o monasterio.",
+    "category": "Familiar",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "durationMinutes": 35,
+    "difficulty": "facil",
+    "minAge": 7,
+    "imgPath": "assets/images/games/carcassonne.png",
+    "rules": [
+      "Coloca la loseta inicial al centro de la mesa.",
+      "En tu turno roba una loseta y colócala junto a otra de forma que los bordes coincidan.",
+      "Puedes poner uno de tus seguidores sobre la loseta que acabas de colocar.",
+      "Cuando una ciudad, camino o monasterio se completa, se puntúa y recuperas el seguidor.",
+      "Al terminar las losetas se puntúan las construcciones incompletas y los campos.",
+      "Gana quien tenga más puntos."
+    ]
+  },
+  {
+    "id": "dixit",
+    "name": "Dixit",
+    "shortDescription": "Describe ilustraciones con una pista y adivina la carta del narrador.",
+    "description": "Un juego de imaginación con cartas ilustradas. El narrador elige una de sus cartas y da una pista (una palabra, una frase o un sonido). Los demás eligen una carta propia que encaje con la pista y después todos votan cuál creen que era la del narrador.",
+    "category": "Party",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "durationMinutes": 30,
+    "difficulty": "facil",
+    "minAge": 8,
+    "imgPath": "assets/images/games/dixit.png",
+    "rules": [
+      "Cada jugador recibe 6 cartas ilustradas.",
+      "El narrador elige una carta y dice una pista en voz alta sin mostrarla.",
+      "Los demás eligen una carta de su mano que encaje con la pista y la entregan boca abajo.",
+      "Se mezclan las cartas, se revelan y cada jugador vota cuál es la del narrador.",
+      "Si todos o nadie adivinan, el narrador no puntúa; si algunos adivinan, puntúan él y ellos.",
+      "Gana el primero en llegar a 30 puntos."
+    ]
+  },
+  {
+    "id": "uno",
+    "name": "UNO",
+    "shortDescription": "Deshazte de tus cartas combinando colores y números.",
+    "description": "El clásico juego de cartas para cualquier reunión. Hay que descartar una carta que coincida en color, número o símbolo con la del centro. Las cartas especiales (salta, reversa, +2, comodín) cambian el ritmo de la partida en un instante.",
+    "category": "Cartas",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "durationMinutes": 30,
+    "difficulty": "facil",
+    "minAge": 7,
+    "imgPath": "assets/images/games/uno.png",
+    "rules": [
+      "Reparte 7 cartas a cada jugador y voltea una carta del mazo.",
+      "En tu turno juega una carta del mismo color, número o símbolo.",
+      "Si no puedes jugar, roba una carta del mazo.",
+      "Las cartas de acción saltan, invierten el sentido o hacen robar cartas al siguiente.",
+      "Di «¡UNO!» cuando te quede una sola carta o roba 2 de castigo.",
+      "Gana la ronda quien se quede sin cartas primero."
+    ]
+  },
+  {
+    "id": "jenga",
+    "name": "Jenga",
+    "shortDescription": "Saca bloques de la torre sin que se derrumbe.",
+    "description": "Un juego de habilidad y nervios. Se arma una torre de bloques de madera y, por turnos, cada jugador saca un bloque con una sola mano y lo coloca arriba. La torre se vuelve cada vez más inestable hasta que alguien la derriba.",
+    "category": "Habilidad",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "durationMinutes": 15,
+    "difficulty": "facil",
+    "minAge": 6,
+    "imgPath": "assets/images/games/jenga.png",
+    "rules": [
+      "Arma la torre en niveles de tres bloques, alternando la dirección.",
+      "En tu turno saca un bloque de cualquier nivel excepto los de arriba.",
+      "Usa solo una mano a la vez.",
+      "Coloca el bloque arriba de la torre siguiendo el patrón.",
+      "Pierde quien haga caer la torre."
+    ]
+  },
+  {
+    "id": "pandemic",
+    "name": "Pandemic",
+    "shortDescription": "Coopera con tu equipo para detener cuatro enfermedades.",
+    "description": "Todos juegan en el mismo equipo como especialistas que viajan por el mundo para tratar brotes y descubrir curas. Cada rol tiene una habilidad única y hay que coordinarse bien: el juego gana si los brotes se salen de control o se acaban las cartas.",
+    "category": "Cooperativo",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "durationMinutes": 45,
+    "difficulty": "media",
+    "minAge": 8,
+    "imgPath": "assets/images/games/pandemic.png",
+    "rules": [
+      "Cada jugador recibe un rol con una habilidad especial.",
+      "En tu turno tienes 4 acciones: moverte, tratar enfermedad, construir o compartir cartas.",
+      "Al final del turno roba 2 cartas de jugador y luego infecta ciudades.",
+      "Las cartas de epidemia aumentan la velocidad de infección.",
+      "Juntar 5 cartas del mismo color en un centro de investigación descubre una cura.",
+      "El equipo gana al descubrir las 4 curas y pierde si hay 8 brotes o se acaban las cartas."
+    ]
+  },
+  {
+    "id": "codenames",
+    "name": "Código Secreto",
+    "shortDescription": "Dos equipos de espías dan pistas de una palabra para encontrar a sus agentes.",
+    "description": "Dos equipos compiten por encontrar a todos sus agentes en una cuadrícula de 25 palabras. Solo el jefe de espías sabe cuáles son, y debe dar pistas de una sola palabra y un número. Cuidado con el asesino: tocarlo hace perder al equipo en el acto.",
+    "category": "Party",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "durationMinutes": 15,
+    "difficulty": "facil",
+    "minAge": 12,
+    "imgPath": "assets/images/games/codenames.png",
+    "rules": [
+      "Forma dos equipos y elige un jefe de espías en cada uno.",
+      "Coloca 25 cartas de palabras en una cuadrícula de 5 × 5.",
+      "Los jefes ven la carta clave que indica qué palabras son de cada equipo.",
+      "El jefe da una pista de una palabra y un número (por ejemplo «Mar, 2»).",
+      "Su equipo toca palabras; si es de otro color, el turno termina.",
+      "Gana el equipo que encuentre a todos sus agentes; quien toque al asesino pierde."
+    ]
+  },
+  {
+    "id": "ticket-to-ride",
+    "name": "¡Aventureros al Tren!",
+    "shortDescription": "Conecta ciudades con rutas de tren y cumple tus destinos.",
+    "description": "Un juego familiar de recolección de cartas y construcción de rutas. Reúne cartas de vagones del mismo color para reclamar tramos entre ciudades y completar los billetes de destino secretos que tienes en la mano.",
+    "category": "Familiar",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "durationMinutes": 45,
+    "difficulty": "facil",
+    "minAge": 8,
+    "imgPath": "assets/images/games/ticket-to-ride.png",
+    "rules": [
+      "Cada jugador recibe vagones, 4 cartas de vagón y billetes de destino.",
+      "En tu turno elige: robar cartas de vagón, reclamar una ruta o robar billetes.",
+      "Para reclamar una ruta entrega cartas del mismo color que su longitud.",
+      "Las rutas más largas dan más puntos.",
+      "Al final suma los billetes completados y resta los que no cumpliste.",
+      "Gana quien tenga más puntos."
+    ]
+  },
+  {
+    "id": "azul",
+    "name": "Azul",
+    "shortDescription": "Elige azulejos y decora la pared del palacio con patrones.",
+    "description": "Un juego de estrategia abstracta con piezas muy vistosas. Los jugadores toman azulejos de las fábricas para completar filas de su tablero; cada fila llena pasa a la pared y suma puntos según cómo se conecta con los demás azulejos.",
+    "category": "Estrategia",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "durationMinutes": 40,
+    "difficulty": "media",
+    "minAge": 8,
+    "imgPath": "assets/images/games/azul.png",
+    "rules": [
+      "Llena cada fábrica con 4 azulejos al azar.",
+      "En tu turno toma todos los azulejos de un color de una fábrica o del centro.",
+      "Colócalos en una fila de tu tablero; los que sobren caen al suelo y restan puntos.",
+      "Al terminar la ronda, cada fila completa mueve un azulejo a la pared y puntúa.",
+      "La partida termina cuando alguien completa una fila horizontal en la pared.",
+      "Se suman bonos y gana quien tenga más puntos."
+    ]
+  },
+  {
+    "id": "exploding-kittens",
+    "name": "Exploding Kittens",
+    "shortDescription": "Evita robar al gatito explosivo… o desactívalo a tiempo.",
+    "description": "Un juego de cartas rápido y divertido parecido a la ruleta rusa. Por turnos se roban cartas del mazo; quien robe un gatito explosivo pierde, a menos que tenga una carta de desactivar. Las demás cartas sirven para espiar, saltar o atacar a otros jugadores.",
+    "category": "Cartas",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "durationMinutes": 15,
+    "difficulty": "facil",
+    "minAge": 7,
+    "imgPath": "assets/images/games/exploding-kittens.png",
+    "rules": [
+      "Cada jugador recibe una carta de desactivar y 7 cartas más.",
+      "Mete los gatitos explosivos en el mazo (uno menos que el número de jugadores).",
+      "En tu turno juega todas las cartas que quieras o ninguna.",
+      "Termina tu turno robando una carta del mazo.",
+      "Si robas un gatito explosivo usa una carta de desactivar o quedas fuera.",
+      "Gana el último jugador que quede en pie."
+    ]
+  },
+  {
+    "id": "dobble",
+    "name": "Dobble",
+    "shortDescription": "Encuentra antes que nadie el símbolo que comparten dos cartas.",
+    "description": "Un juego de observación y reflejos. Cada par de cartas comparte exactamente un símbolo y gana quien lo encuentre y lo diga primero. Tiene varias modalidades rápidas, ideal para jugar con niños o para empezar una reunión.",
+    "category": "Habilidad",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "durationMinutes": 15,
+    "difficulty": "facil",
+    "minAge": 6,
+    "imgPath": "assets/images/games/dobble.png",
+    "rules": [
+      "Reparte una carta boca abajo a cada jugador y deja el mazo al centro.",
+      "Todos voltean su carta al mismo tiempo.",
+      "Busca el símbolo que tu carta comparte con la del centro y dilo en voz alta.",
+      "Quien lo diga primero se queda con la carta del centro.",
+      "Gana quien junte más cartas al terminar el mazo."
+    ]
+  },
+  {
+    "id": "loteria",
+    "name": "Lotería Mexicana",
+    "shortDescription": "Marca en tu tabla las cartas que canta el gritón.",
+    "description": "El juego tradicional de las ferias y reuniones familiares en México. Una persona «canta» las cartas del mazo (El Gallo, La Dama, El Catrín…) y los jugadores marcan en su tabla las figuras que salen. Gana quien complete primero el patrón acordado.",
+    "category": "Familiar",
+    "minPlayers": 2,
+    "maxPlayers": 16,
+    "durationMinutes": 30,
+    "difficulty": "facil",
+    "minAge": 5,
+    "imgPath": "assets/images/games/loteria.png",
+    "rules": [
+      "Cada jugador elige una tabla y fichas para marcar (frijoles o corcholatas).",
+      "El gritón baraja el mazo y canta las cartas una por una.",
+      "Si la figura cantada está en tu tabla, márcala.",
+      "Antes de empezar acuerden el patrón: línea, cuatro esquinas o tabla llena.",
+      "Quien complete el patrón grita «¡Lotería!» y gana la ronda."
+    ]
+  },
+  {
+    "id": "love-letter",
+    "name": "Love Letter",
+    "shortDescription": "Haz llegar tu carta a la princesa con solo 16 cartas.",
+    "description": "Un juego de deducción muy compacto. Cada jugador tiene una sola carta en la mano; en su turno roba otra y juega una de las dos. Cada personaje tiene un efecto: adivinar la carta de otro, comparar, protegerse o eliminar rivales.",
+    "category": "Cartas",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "durationMinutes": 20,
+    "difficulty": "facil",
+    "minAge": 10,
+    "imgPath": "assets/images/games/love-letter.png",
+    "rules": [
+      "Baraja las 16 cartas, aparta una boca abajo y reparte una a cada jugador.",
+      "En tu turno roba una carta y juega una de las dos que tienes.",
+      "Aplica el efecto de la carta jugada.",
+      "Si un efecto te elimina, quedas fuera de la ronda.",
+      "La ronda termina cuando queda un jugador o se acaba el mazo; gana la carta más alta.",
+      "Gana la partida quien junte primero las fichas de favor acordadas."
+    ]
+  },
+  {
+    "id": "the-crew",
+    "name": "La Tripulación",
+    "shortDescription": "Cumplan misiones espaciales en equipo sin poder hablar.",
+    "description": "Un juego cooperativo de bazas. Toda la tripulación debe cumplir las tareas de cada misión, pero la comunicación está muy limitada. Tiene una campaña de 50 misiones que se vuelven más difíciles, así que funciona muy bien para varias reuniones.",
+    "category": "Cooperativo",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "durationMinutes": 20,
+    "difficulty": "media",
+    "minAge": 10,
+    "imgPath": "assets/images/games/the-crew.png",
+    "rules": [
+      "Lee la misión del cuaderno y reparte todas las cartas.",
+      "Quien tenga el cohete 4 es el comandante y elige o reparte las tareas.",
+      "Se juegan bazas: hay que seguir el palo si es posible.",
+      "Cada tarea exige que cierto jugador gane una carta concreta.",
+      "Solo puedes comunicar una carta por misión usando la ficha de radio.",
+      "Ganan todos si se cumplen las tareas; si no, reintentan la misión."
+    ]
+  },
+  {
+    "id": "terraforming-mars",
+    "name": "Terraforming Mars",
+    "shortDescription": "Dirige una corporación que transforma Marte en un planeta habitable.",
+    "description": "Un juego de estrategia profundo para quienes ya tienen experiencia. Cada corporación invierte en proyectos para subir la temperatura, el oxígeno y los océanos de Marte. Hay cientos de cartas distintas, por eso cada partida es diferente.",
+    "category": "Estrategia",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "durationMinutes": 120,
+    "difficulty": "dificil",
+    "minAge": 12,
+    "imgPath": "assets/images/games/terraforming-mars.png",
+    "rules": [
+      "Cada jugador elige una corporación y compra sus cartas iniciales.",
+      "En cada generación se roban cartas y se decide cuáles comprar.",
+      "Por turnos realiza una o dos acciones: jugar cartas, proyectos estándar o acciones.",
+      "Subir temperatura, oxígeno u océanos aumenta tu índice de terraformación.",
+      "Al final de cada generación cobras producción según tus recursos.",
+      "La partida termina cuando los tres parámetros llegan al máximo; gana quien tenga más puntos."
+    ]
+  },
+  {
+    "id": "basta",
+    "name": "Basta",
+    "shortDescription": "Escribe palabras que empiecen con una letra antes de que alguien diga ¡Basta!",
+    "description": "Un juego de papel y lápiz que no necesita comprar nada. Se elige una letra y todos escriben lo más rápido posible un nombre, un apellido, una fruta, un país, etc. que empiece con esa letra. Ideal para estudiantes y grupos grandes.",
+    "category": "Party",
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "durationMinutes": 20,
+    "difficulty": "facil",
+    "minAge": 8,
+    "imgPath": "assets/images/games/basta.png",
+    "rules": [
+      "Cada jugador dibuja una tabla con categorías (nombre, fruta, país, color…).",
+      "Uno recita el abecedario en silencio y otro dice «alto» para elegir la letra.",
+      "Todos llenan las categorías con palabras que empiecen con esa letra.",
+      "Quien termine primero grita «¡Basta!» y todos dejan de escribir.",
+      "Las respuestas únicas valen 100 puntos, las repetidas 50 y las vacías 0.",
+      "Gana quien sume más puntos después de varias rondas."
+    ]
+  }
+]
